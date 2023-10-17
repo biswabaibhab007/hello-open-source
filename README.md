@@ -8,7 +8,11 @@ _Sorted alphabetically_
 
 - [Chinese](./translations/README-CHI.md) (**中文**)
 - [German](./translations/README-DE.md) (**Deutsch**)
+- [Bengali](./translations/README-BN.md) (**বাংলা**)
+- [French](./translations/README-FR.md) (**Français**)
+- [Hindi](./translations/README-HI.md) (**हिंदी**)
 - [Indonesian](./translations/README-ID.md) (**Bahasa Indonesia**)
+- [Italian](./translations/README-it.md) (**Italiano**)
 - [Japanese](./translations/README-JP.md) (**日本人**)
 - [Korean](./translations/README-KR.md) (**한국어**)
 - [Portuguese](./translations/README-PT-BR.md) (**Português**)
